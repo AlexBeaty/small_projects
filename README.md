@@ -8,4 +8,7 @@ A short command line Python program that has the user attempt to guess a random 
 
 ### rock_paper_scissors
 The user plays rock, paper, scissors against the computer in the command line.\
-**Could add repeatable games and score keeping**
+  *Add repeatable games and score keeping
+
+### python_sudoku_solver
+Takes the unsolved sudoku grid and returns it solved using a backtracking algorithm.\
