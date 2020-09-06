@@ -3,7 +3,7 @@ import random
 
 """
 A short command line Python program that has the
-user attempt to guess a random number
+user attempt to guess a random number.
 """
 
 num = random.randint(1, 10)
@@ -18,7 +18,7 @@ for i in range(5):
         print(f'{user_guess} is too low')
     else:
         print(f'{user_guess} is too high')
-        
+
 print(f"\nI'm sorry, you've ran out of guesses.\nThe number I was thinking of was: {num}")
 sys.exit()
         
