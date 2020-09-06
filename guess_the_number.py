@@ -18,6 +18,7 @@ for i in range(5):
         print(f'{user_guess} is too low')
     else:
         print(f'{user_guess} is too high')
+        
 print(f"\nI'm sorry, you've ran out of guesses.\nThe number I was thinking of was: {num}")
 sys.exit()
         
