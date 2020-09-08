@@ -12,3 +12,6 @@ Takes the unsolved sudoku grid and returns it solved using a backtracking algori
 ### hangmnan
 The user can play a game of hangman in the command line. The word to be guessed is random, generated from a get request (https://random-word-api.herokuapp.com/home).
 ***
+### calculator
+A simple calulator built with tkinter.
+***
