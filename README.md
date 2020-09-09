@@ -15,3 +15,6 @@ The user can play a game of hangman in the command line. The word to be guessed 
 ### calculator
 A simple calulator built with tkinter.
 ***
+### words_in_file_insights
+Simple command line program that reads in a filename as argument. Program makes several anaylsis of the file's content. There is a lot of scope to add more analysis.
+***
